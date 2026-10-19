@@ -2,6 +2,8 @@
 
 A **DeepSeek Harness (DSH) Web UI skin plugin** themed after *VA-11 HALL-A: Cyberpunk Bartender Action*.
 
+![Preview](docs/preview.png)
+
 - Near-black purple palette with neon magenta accents (dark only)
 - Official **VA-11 HALL-A** logo sign with a neon glow, centered above the conversation
 - **Dana** and **Jill** character art framing the chat (click-through, never blocks the UI)
