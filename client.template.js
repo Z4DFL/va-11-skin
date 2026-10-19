@@ -48,7 +48,7 @@ window.__ModuleLoader__.load({
       "letter-spacing:1.5px;font-family:'V11 Mono',ui-monospace,'Courier New',monospace;text-transform:uppercase;animation:v11-fadein .8s ease}",
       '@keyframes v11-bob{from{transform:translateY(0)}to{transform:translateY(-3px)}}',
       '@keyframes v11-fadein{from{opacity:0}to{opacity:.75}}',
-      '.v11-signbar{position:absolute;top:9px;left:0;right:0;padding-left:310px;display:flex;justify-content:center;pointer-events:none;z-index:2}',
+      '.v11-signbar{position:absolute;top:9px;left:0;right:0;padding-left:110px;display:flex;justify-content:center;pointer-events:none;z-index:2}',
       '.v11-signbar-img{width:300px;height:auto;user-select:none;',
       'filter:drop-shadow(0 0 4px rgba(255,45,143,.9)) drop-shadow(0 0 14px rgba(255,45,143,.6))',
       'drop-shadow(0 0 34px rgba(255,45,143,.32)) drop-shadow(0 0 64px rgba(53,224,224,.16));',
